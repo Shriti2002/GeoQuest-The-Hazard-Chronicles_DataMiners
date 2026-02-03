@@ -1,27 +1,26 @@
 # GeoQuest-The-Hazard-Chronicles_DataMiners
 
-## 🌍 UTA Datathon 2025 – Environmental Hazard Story Map  
+## 🔥 UTA Datathon 2025 – Wildfire Risk Story Map
 
-### 🔍 Problem Statement  
-Urban flooding is an increasingly prevalent environmental hazard due to rapid urbanization, climate change, and inadequate drainage systems. Our project addresses the challenge of identifying vulnerable flood-prone regions using real-world datasets and regression modeling to simulate runoff.
+### 🔍 Problem Statement
+Wildfires are an increasingly frequent environmental hazard driven by climate conditions, land-use patterns, and fuel availability. This project focuses on communicating wildfire risk and current incident activity using live data to help audiences understand where events are happening and what areas may be impacted.
 
-### 🌐 Live Story Map  
+### 🌐 Live Story Map
 Explore the full interactive experience here:  
 🔗 [ArcGIS Story Map](https://storymaps.arcgis.com/stories/bca0833d5c27483bbdb173ca32d014bb)
 
-### 🚀 Features  
-- **Interactive Story Map** with pop-ups, filters, and media  
-- **Live data simulation** visualizing runoff prediction across zones  
-- **Dashboards and analysis panels** using ArcGIS Online tools  
-- **Clear cartographic design** with basemaps, legends, and symbology  
-- **Call to action** highlighting infrastructure improvements in high-risk areas  
+### 🚀 Features
+- **Interactive Story Map** with custom pop-ups, filters, and media
+- **Live wildfire incident and perimeter layers** integrated into ArcGIS Online
+- **Dynamic maps and dashboards** to explore active events and affected areas
+- **Clear cartographic design** with basemaps, legends, and symbology
+- **Action-oriented narrative** highlighting mitigation and preparedness insights
 
-### 📌 Key Outcomes  
-- Identification of high-risk flood zones  
-- Visual insights into urban vulnerability  
-- A public, accessible tool for awareness and planning  
+### 📌 Key Outcomes
+- Clear visibility into **active wildfire incidents and perimeters**
+- Location-based insights to help communicate **high-risk and impacted areas**
+- A public, accessible visualization tool for **awareness and planning**
 
-### 📄 Citations  
-- ArcGIS Basemaps and Toolkits  
-- Public GIS datasets from [USGS](https://www.usgs.gov/), [NOAA](https://www.noaa.gov/), and [City of Arlington GIS Portal](https://www.arlingtontx.gov)  
-- Regression reference: Applied Hydrology by Ven Te Chow  
+### 📄 Data & References
+- ArcGIS Basemaps and Toolkits
+- National Interagency Fire Center (NIFC) live feeds (wildfire incidents & perimeters): https://www.nifc.gov/
